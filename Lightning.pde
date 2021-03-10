@@ -22,7 +22,7 @@ void setup(){
   imageMode(CENTER); // position of image is its center
   
   // load ball image "ball.png"
-  ball = loadImage("data/ball.png");
+  ball = loadImage("ball.png");
   
   // initialize position, velocity and radius of ball.
   center_x = 100;
